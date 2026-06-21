@@ -22,25 +22,23 @@ Tujuan saya mempelajari Data Science adalah untuk menguasai kemampuan berpikir k
    Link : https://github.com/dabitbaiq/data-science-2026/blob/main/Sesi2_Dabit%20Maknun_240401010384.ipynb
 
 3. Pertemuan 3 - Data Cleaning: Missing, Outlier & Ekstraksi
-   Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan3_Deni_Widi_Alfian_240401010340.ipynb
+   Link : https://github.com/dabitbaiq/data-science-2026/blob/main/Sesi3_Dabit%20Maknun_240401010384.ipynb
    
 4. Pertemuan 4 - Statistika Dasar & Analisis Data
-   Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan4_Deni_Widi_Alfian_240401010340.ipynb
+   Link : https://github.com/dabitbaiq/data-science-2026/blob/main/Sesi4_Dabit%20Maknun_240401010384.ipynb
 
 5. Pertemuan 5 - Visualisasi Data
-   Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan5_Deni_Widi_Alfian_240401010340.ipynb
+   Link : https://github.com/dabitbaiq/data-science-2026/blob/main/Sesi5_Dabit%20Maknun_240401010384.ipynb
 
 6. Pertemuan 6 - Persiapan Data
-   Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan6_Deni_Widi_Alfian_240401010340.ipynb
+   Link : https://github.com/dabitbaiq/data-science-2026/blob/main/Sesi6_Dabit%20Maknun_240401010384.ipynb
 
 7. Pertemuan 7 - Pengantar Machine Learning: Regresi Linier
-   Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan7_Deni_Widi_Alfian_240401010340.ipynb
+   Link : https://github.com/dabitbaiq/data-science-2026/blob/main/Sesi7_Dabit%20Maknun_240401010384.ipynb
 
 --------------------------------------------------------
 
-# Kesimpulan Pembelajaran
-1. Setiap pertemuan adalah satu tahap yang saling bergantung. Model yang bagus di Pertemuan 7 hanya bisa tercapai karena data dibersihkan di Pertemuan 3, dipahami di Pertemuan 4, dan disiapkan dengan benar di Pertemuan 6.
-2. Persiapan data > algoritma. Ini terbukti dalam melakukan hands-on praktikum, dimana lebih dari setengah pertemuan dihabiskan untuk memahami dan mempersiapkan data, sementara model ML-nya sendiri hanya beberapa baris kode.
-3. Sebagai Graphic Designer, pemahaman tentang estetika dan komunikasi visual yang sudah ada sebelumnya sangat relevan dengan Pertemuan 5 (Visualisasi Data) dimana kita perlu memilih jenis grafik yang tepat, memberikan konteks yang jelas, dan membuat visualisasi yang tidak hanya benar tapi juga mudah dipahami.
+# Kesimpulan Umum
+Selama tujuh pertemuan dari praktikum 1 - 7, saya memperoleh pemahaman mengenai alur kerja Data Science secara lengkap, mulai dari pemrograman dasar Python, pengumpulan data, pembersihan data, eksplorasi data, visualisasi data, preprocessing, hingga pembangunan model Machine Learning sederhana. Saya memahami bahwa kualitas data sangat memengaruhi hasil analisis dan performa model. Selain itu, visualisasi data menjadi alat yang penting untuk menemukan pola dan menghasilkan insight yang bermanfaat. Pengalaman belajar ini memberikan fondasi yang kuat untuk mempelajari teknik Data Science dan Machine Learning yang lebih lanjut di masa mendatang.
 
 # Terima kasih.
