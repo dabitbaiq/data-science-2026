@@ -16,7 +16,7 @@ Tujuan saya mempelajari Data Science adalah untuk menguasai kemampuan berpikir k
 
 # List Notebook
 1. Pertemuan 1 - Pengenalan Data Science
-   Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan1_Deni_Widi_Alfian_240401010340.ipynb
+   Link : https://github.com/dabitbaiq/data-science-2026/blob/main/Sesi1_Dabit%20Maknun_240401010384.ipynb
    
 2. Pertemuan 2 - Struktur Data Python, NumPy & Pandas
    Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan2_Deni_Widi_Alfian_240401010340.ipynb
