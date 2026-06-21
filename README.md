@@ -1,10 +1,10 @@
 # Data-Science-2026
 
-Nama Lengkap	Taqiyuddin Ja'far
-NIM	250401020186
-Kelas	IF405
-Program Studi	PJJ Informatika
-Dosen Pengampu	Syahid Abdullah, S.Si, M.Kom
+-Nama Lengkap	Taqiyuddin Ja'far
+-NIM	250401020186
+-Kelas	IF405
+-Program Studi	PJJ Informatika
+-Dosen Pengampu	Syahid Abdullah, S.Si, M.Kom
 
 
 Halo! Saya Dabit Maknun, mahasiswa PJJ Informatika di Universitas Siber Asia. Repository ini adalah portofolio digital belajar saya dalam mata kuliah Data Science semester genap 2025/2026.
